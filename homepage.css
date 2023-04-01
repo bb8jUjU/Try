@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: Impact;
+	margin: auto;
+}
+.home {
+	max-width: 400px;
+	width: 80%;
+	margin: auto;
+	padding: 15x;
+	border-radius: 40px;
+	background-color: lightblue;
+}
+.table {
+	margin-top: 15px;
+	text-align: center;
+	font-family: Comic Sans MS;
+	border-radius: 10px;
+	border-color: lightblue;
+}
